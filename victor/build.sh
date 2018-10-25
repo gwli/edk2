@@ -1,5 +1,5 @@
 TOP=`pwd`/..
-
+## according to:  https://zhuanlan.zhihu.com/p/25941817
 cd $TOP
 
 make -C BaseTools
